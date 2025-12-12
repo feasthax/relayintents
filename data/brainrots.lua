@@ -1,4 +1,4 @@
-local brainrots = {
+return {
     ["Noobini Pizzanini"] = {
         ["DisplayName"] = "Noobini Pizzanini",
         ["Rarity"] = "Common",
