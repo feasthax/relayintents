@@ -1,4 +1,3 @@
-return {
     ["Noobini Pizzanini"] = {
         ["DisplayName"] = "Noobini Pizzanini",
         ["Rarity"] = "Common",
@@ -2622,4 +2621,3 @@ local traits = {
         ["Color"] = Color3.fromRGB(206, 77, 76),
         ["MultiplierModifier"] = 4
     }
-}
